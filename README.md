@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# hey, i'm noel<span style="color:#888">.</span>
+# hey, i'm noel.
 
 ### developer in progress · curious by default
 
@@ -13,7 +13,7 @@ Building digital things, exploring security, and turning random ideas into real 
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ext0nz&style=flat-square&color=555555&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=extonz&style=flat-square&color=555555&label=PROFILE+VIEWS)
 
 </div>
 
@@ -24,6 +24,7 @@ Building digital things, exploring security, and turning random ideas into real 
 ```yaml
 name: Noel
 location: Spain
+
 interests:
   - Cybersecurity
   - Artificial Intelligence
@@ -46,13 +47,17 @@ philosophy: "Build. Break. Learn. Repeat."
 
 **languages & frameworks**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,nodejs&theme=dark" />
+<br>
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,nodejs&theme=dark" alt="Languages and frameworks" />
 
 <br><br>
 
 **tools & platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,supabase,cloudflare,linux&theme=dark" />
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,supabase,cloudflare,linux&theme=dark" alt="Tools and platforms" />
 
 <br><br>
 
@@ -71,16 +76,18 @@ philosophy: "Build. Break. Learn. Repeat."
 <td width="50%" valign="top">
 
 #### Guardian
+
 Security-focused experiments and tools.
 
 `SECURITY` `DEVELOPMENT`
 
-<a href="https://github.com/ext0nz/Guardian">Explore project ↗</a>
+<a href="https://github.com/extonz/Guardian">Explore project ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
 #### LOCKOUT
+
 Exploring a different approach to digital wellbeing and anti-gambling software.
 
 `APP` `DIGITAL WELLBEING`
@@ -91,6 +98,7 @@ Exploring a different approach to digital wellbeing and anti-gambling software.
 <td width="50%" valign="top">
 
 #### Trace
+
 An experiment in building thoughtful, useful digital products.
 
 `PRODUCT` `WEB`
@@ -99,6 +107,7 @@ An experiment in building thoughtful, useful digital products.
 <td width="50%" valign="top">
 
 #### What's next?
+
 Probably another idea that started at 2 AM.
 
 `COMING SOON...`
@@ -113,13 +122,13 @@ Probably another idea that started at 2 AM.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ext0nz&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=extonz&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=github" alt="GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ext0nz&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=extonz&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888" alt="Top Languages" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=ext0nz&theme=transparent&hide_border=true&ring=888888&fire=ffffff&currStreakLabel=888888" />
+<img src="https://streak-stats.demolab.com?user=extonz&theme=transparent&hide_border=true&ring=888888&fire=ffffff&currStreakLabel=888888" alt="GitHub Streak" />
 
 </div>
 
@@ -129,7 +138,7 @@ Probably another idea that started at 2 AM.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ext0nz&bg_color=00000000&color=888888&line=ffffff&point=888888&area=true&area_color=555555&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=extonz&bg_color=00000000&color=888888&line=ffffff&point=888888&area=true&area_color=555555&hide_border=true" width="100%" alt="Contribution Graph" />
 
 </div>
 
@@ -153,8 +162,8 @@ Always learning. Always experimenting. Never running out of ideas.
 
 <br>
 
-<a href="https://github.com/ext0nz">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/extonz">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br><br>
@@ -163,6 +172,6 @@ Always learning. Always experimenting. Never running out of ideas.
 
 <br>
 
-**© Noel — built, not generated.**
+**© Noel — built with curiosity.**
 
 </div>
